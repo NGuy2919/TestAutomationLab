@@ -1,0 +1,11 @@
+# Chrome / Driver
+ChromeForTesting/
+*.exe
+
+# Robot Framework output
+output/
+log.html
+report.html
+
+# Screenshots
+*.png
